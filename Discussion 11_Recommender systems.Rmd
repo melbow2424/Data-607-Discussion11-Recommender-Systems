@@ -1,0 +1,20 @@
+---
+title: 'Discussion11: Recommender Systems'
+author: "Melissa Bowman"
+date: "2022-11-02"
+output: html_document
+---
+
+Your task is to analyze an existing recommender system that you find interesting.  You should:
+
+> 1.	Perform a Scenario Design analysis as described below.  Consider whether it makes sense for your selected recommender system to perform scenario design twice, once for the organization (e.g. Amazon.com) and once for the organization's customers.
+
+Goodreads is a site for readers and book recommendations. On the site, you can track books you are looking to read, currently reading, have read already, and are given a personalized book recommendation list. One of the original key goals of the site was to recommend books to others through social connections. You would add friend’s book list to your account and find book recommendations from their list. A novel approach that is still used on the website today. However, it isn’t the only way books are recommended on the site. In the browsing section of the site, you can select “Recommendations”, and receive multiple lists based on genre’s you’ve read and what is currently list on your to-read book list. It is also good to note that Goodreads was acquired by Amazon in 2013, which has led to it’s current pricing directive toward purchasing books or e-books through Amazon. This gives it a new layer of goals for Goodreads as company. 
+
+> 2.	Attempt to reverse engineer what you can about the site, from the site interface and any available information that you can find on the Internet or elsewhere.
+
+According to a wiki page on Goodreads, the site receives criticism on its outdatedness and prone to frequent crashing and bugs (can attest to bugs in site and app). And that’s just the site itself. It’s recommending engine is considered poor from users that suggested that it mostly pushes popular title instead of a more personalized experience. This could be because Goodreads has little competition and Amazon has limited its development. This makes scene in a way. By preventing better tools for personalized book recommendations, maybe Amazon could eventually dismantle this once loved book recommending system. Even before Amazon acquired Goodreads in 2013, it acquires its competitor Shelfari in 2008. Amazon shut the site down to favor Goodreads in 2016 giving it virtually no competition. 
+
+> 3.	Include specific recommendations about how to improve the site's recommendation capabilities going forward. 
+
+In an ideal world, I’d recommend Goodreads focus on its root recommendation engine of social exchange but that will not happen within the limited parameters that Amazon, its parent company, has set for it. Unfortunately, this website become just another example of oligopoly. Where there is an illusion of choice, but the reality is, this website is just an extension of Amazon dominates over every purchasing market.  
